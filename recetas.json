@@ -13,7 +13,6 @@
         "Canela al gusto"
       ],
       "procedimiento": "Precalienta el horno a 180°C. Pela y corta las manzanas en rodajas. Mezcla la harina, mantequilla, azúcar y huevo hasta obtener una masa homogénea. Extiende la masa en un molde y coloca las rodajas de manzana encima. Espolvorea con canela y hornea durante 30 minutos.",
-      "imagen": "tarta_manzana.jpg",
       "categoria": "Postres"
     },
     {
@@ -28,7 +27,6 @@
         "Salsa César"
       ],
       "procedimiento": "Corta la lechuga y mezcla con los croutons. Cocina la pechuga de pollo a la plancha y córtala en tiras. Añade el pollo a la ensalada, espolvorea con queso parmesano y agrega la salsa César al gusto.",
-      "imagen": "ensalada_cesar.jpg",
       "categoria": "Ensaladas"
     },
     {
@@ -43,7 +41,6 @@
         "Sal y pimienta"
       ],
       "procedimiento": "Cocina la pasta en agua con sal. Mientras tanto, fríe la panceta en una sartén. En un bol, bate los huevos y mézclalos con el queso parmesano rallado. Una vez cocida la pasta, mézclala con la panceta y añade la mezcla de huevo fuera del fuego para evitar que los huevos se cocinen demasiado. Salpimienta al gusto y sirve.",
-      "imagen": "pasta_carbonara.jpg",
       "categoria": "Pastas"
     },
     {
@@ -59,7 +56,6 @@
         "Nueces al gusto"
       ],
       "procedimiento": "Derrite el chocolate con la mantequilla. En un bol, bate los huevos con el azúcar y añade la mezcla de chocolate. Incorpora la harina y mezcla bien. Añade nueces al gusto. Vierte la mezcla en un molde y hornea a 180°C durante 25 minutos.",
-      "imagen": "brownies_chocolate.jpg",
       "categoria": "Postres"
     },
     {
@@ -75,7 +71,6 @@
         "Sal y pimienta"
       ],
       "procedimiento": "Pica la cebolla y el ajo, y sofríelos en una cacerola con aceite de oliva. Añade los tomates troceados y cocina durante 10 minutos. Vierte el caldo de verduras y cocina a fuego lento durante 20 minutos. Tritura la sopa hasta obtener una textura suave. Salpimienta al gusto y sirve.",
-      "imagen": "sopa_tomate.jpg",
       "categoria": "Sopas"
     },
     {
@@ -90,7 +85,6 @@
         "Aceite de oliva"
       ],
       "procedimiento": "Extiende la masa de pizza, coloca rodajas de tomate y mozzarella encima. Hornea a 200°C durante 15 minutos. Al sacarla, añade albahaca fresca y un chorrito de aceite de oliva.",
-      "imagen": "pizza_margarita.jpg",
       "categoria": "Pizzas"
     },
     {
@@ -121,7 +115,6 @@
         "Sal y pimienta"
       ],
       "procedimiento": "Corta el pescado en cubos pequeños y marina en jugo de limón durante 15 minutos. Añade cebolla morada, cilantro, sal y pimienta al gusto.",
-      "imagen": "ceviche_pescado.jpg",
       "categoria": "Entradas"
     },
     {
@@ -136,7 +129,6 @@
         "Queso parmesano"
       ],
       "procedimiento": "Sofríe la cebolla, añade los champiñones y el arroz. Ve agregando el caldo poco a poco hasta que el arroz esté cocido. Añade queso parmesano al final.",
-      "imagen": "risotto_champinones.jpg",
       "categoria": "Arroces"
     },
     {
@@ -150,7 +142,6 @@
         "Miel"
       ],
       "procedimiento": "Licúa todos los ingredientes hasta obtener una mezcla homogénea. Sirve frío.",
-      "imagen": "batido_frutas.jpg",
       "categoria": "Bebidas"
     },
     {
@@ -166,7 +157,6 @@
         "Polvo de hornear"
       ],
       "procedimiento": "Mezcla todos los ingredientes hasta obtener una masa suave. Cocina en una sartén caliente hasta dorar por ambos lados.",
-      "imagen": "panqueques.jpg",
       "categoria": "Desayunos"
     },
     {
@@ -181,7 +171,6 @@
         "Aceitunas"
       ],
       "procedimiento": "Rellena las masas con carne cocida y los demás ingredientes. Cierra las empanadas y hornea a 180°C durante 20 minutos.",
-      "imagen": "empanadas_carne.jpg",
       "categoria": "Entradas"
     },
     {
@@ -197,7 +186,6 @@
         "Vinagre"
       ],
       "procedimiento": "Licúa todos los ingredientes hasta obtener una sopa fría. Sirve con trozos de pan.",
-      "imagen": "gazpacho.jpg",
       "categoria": "Sopas"
     },
     {
@@ -212,7 +200,6 @@
         "Salsa picante"
       ],
       "procedimiento": "Cocina el pollo, desmenúzalo y colócalo en las tortillas. Añade aguacate, cebolla y salsa al gusto.",
-      "imagen": "tacos_pollo.jpg",
       "categoria": "Platos Principales"
     },
     {
@@ -227,7 +214,6 @@
         "Crema"
       ],
       "procedimiento": "Mezcla todos los ingredientes y cocina a fuego lento hasta espesar. Refrigera y luego bate la mezcla antes de congelarla.",
-      "imagen": "helado_vainilla.jpg",
       "categoria": "Postres"
     }
   ]
