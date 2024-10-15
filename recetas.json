@@ -1,0 +1,234 @@
+{
+  "recetas": [
+    {
+      "id": 1,
+      "titulo": "Tarta de Manzana",
+      "comensales": 4,
+      "ingredientes": [
+        "2 manzanas",
+        "100g de harina",
+        "50g de mantequilla",
+        "100g de azúcar",
+        "1 huevo",
+        "Canela al gusto"
+      ],
+      "procedimiento": "Precalienta el horno a 180°C. Pela y corta las manzanas en rodajas. Mezcla la harina, mantequilla, azúcar y huevo hasta obtener una masa homogénea. Extiende la masa en un molde y coloca las rodajas de manzana encima. Espolvorea con canela y hornea durante 30 minutos.",
+      "imagen": "tarta_manzana.jpg",
+      "categoria": "Postres"
+    },
+    {
+      "id": 2,
+      "titulo": "Ensalada César",
+      "comensales": 2,
+      "ingredientes": [
+        "Lechuga romana",
+        "Pechuga de pollo",
+        "Queso parmesano",
+        "Croutons",
+        "Salsa César"
+      ],
+      "procedimiento": "Corta la lechuga y mezcla con los croutons. Cocina la pechuga de pollo a la plancha y córtala en tiras. Añade el pollo a la ensalada, espolvorea con queso parmesano y agrega la salsa César al gusto.",
+      "imagen": "ensalada_cesar.jpg",
+      "categoria": "Ensaladas"
+    },
+    {
+      "id": 3,
+      "titulo": "Pasta Carbonara",
+      "comensales": 3,
+      "ingredientes": [
+        "200g de pasta",
+        "100g de panceta",
+        "2 huevos",
+        "50g de queso parmesano",
+        "Sal y pimienta"
+      ],
+      "procedimiento": "Cocina la pasta en agua con sal. Mientras tanto, fríe la panceta en una sartén. En un bol, bate los huevos y mézclalos con el queso parmesano rallado. Una vez cocida la pasta, mézclala con la panceta y añade la mezcla de huevo fuera del fuego para evitar que los huevos se cocinen demasiado. Salpimienta al gusto y sirve.",
+      "imagen": "pasta_carbonara.jpg",
+      "categoria": "Pastas"
+    },
+    {
+      "id": 4,
+      "titulo": "Brownies de Chocolate",
+      "comensales": 6,
+      "ingredientes": [
+        "200g de chocolate negro",
+        "150g de mantequilla",
+        "200g de azúcar",
+        "3 huevos",
+        "100g de harina",
+        "Nueces al gusto"
+      ],
+      "procedimiento": "Derrite el chocolate con la mantequilla. En un bol, bate los huevos con el azúcar y añade la mezcla de chocolate. Incorpora la harina y mezcla bien. Añade nueces al gusto. Vierte la mezcla en un molde y hornea a 180°C durante 25 minutos.",
+      "imagen": "brownies_chocolate.jpg",
+      "categoria": "Postres"
+    },
+    {
+      "id": 5,
+      "titulo": "Sopa de Tomate",
+      "comensales": 4,
+      "ingredientes": [
+        "500g de tomates",
+        "1 cebolla",
+        "2 dientes de ajo",
+        "500ml de caldo de verduras",
+        "Aceite de oliva",
+        "Sal y pimienta"
+      ],
+      "procedimiento": "Pica la cebolla y el ajo, y sofríelos en una cacerola con aceite de oliva. Añade los tomates troceados y cocina durante 10 minutos. Vierte el caldo de verduras y cocina a fuego lento durante 20 minutos. Tritura la sopa hasta obtener una textura suave. Salpimienta al gusto y sirve.",
+      "imagen": "sopa_tomate.jpg",
+      "categoria": "Sopas"
+    },
+    {
+      "id": 6,
+      "titulo": "Pizza Margarita",
+      "comensales": 4,
+      "ingredientes": [
+        "Masa para pizza",
+        "Tomate",
+        "Mozzarella",
+        "Albahaca fresca",
+        "Aceite de oliva"
+      ],
+      "procedimiento": "Extiende la masa de pizza, coloca rodajas de tomate y mozzarella encima. Hornea a 200°C durante 15 minutos. Al sacarla, añade albahaca fresca y un chorrito de aceite de oliva.",
+      "imagen": "pizza_margarita.jpg",
+      "categoria": "Pizzas"
+    },
+    {
+      "id": 7,
+      "titulo": "Pollo al Curry",
+      "comensales": 3,
+      "ingredientes": [
+        "Pechuga de pollo",
+        "Curry en polvo",
+        "Leche de coco",
+        "Cebolla",
+        "Aceite de oliva",
+        "Sal"
+      ],
+      "procedimiento": "Corta la cebolla y sofríela con aceite. Agrega la pechuga de pollo cortada en trozos, añade curry y leche de coco. Cocina a fuego medio durante 20 minutos.",
+      "imagen": "pollo_curry.jpg",
+      "categoria": "Platos Principales"
+    },
+    {
+      "id": 8,
+      "titulo": "Ceviche de Pescado",
+      "comensales": 2,
+      "ingredientes": [
+        "Pescado blanco",
+        "Cebolla morada",
+        "Jugo de limón",
+        "Cilantro",
+        "Sal y pimienta"
+      ],
+      "procedimiento": "Corta el pescado en cubos pequeños y marina en jugo de limón durante 15 minutos. Añade cebolla morada, cilantro, sal y pimienta al gusto.",
+      "imagen": "ceviche_pescado.jpg",
+      "categoria": "Entradas"
+    },
+    {
+      "id": 9,
+      "titulo": "Risotto de Champiñones",
+      "comensales": 4,
+      "ingredientes": [
+        "Arroz para risotto",
+        "Champiñones",
+        "Caldo de verduras",
+        "Cebolla",
+        "Queso parmesano"
+      ],
+      "procedimiento": "Sofríe la cebolla, añade los champiñones y el arroz. Ve agregando el caldo poco a poco hasta que el arroz esté cocido. Añade queso parmesano al final.",
+      "imagen": "risotto_champinones.jpg",
+      "categoria": "Arroces"
+    },
+    {
+      "id": 10,
+      "titulo": "Batido de Frutas",
+      "comensales": 1,
+      "ingredientes": [
+        "Banana",
+        "Fresas",
+        "Leche",
+        "Miel"
+      ],
+      "procedimiento": "Licúa todos los ingredientes hasta obtener una mezcla homogénea. Sirve frío.",
+      "imagen": "batido_frutas.jpg",
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 11,
+      "titulo": "Panqueques",
+      "comensales": 3,
+      "ingredientes": [
+        "Harina",
+        "Leche",
+        "Huevo",
+        "Mantequilla",
+        "Azúcar",
+        "Polvo de hornear"
+      ],
+      "procedimiento": "Mezcla todos los ingredientes hasta obtener una masa suave. Cocina en una sartén caliente hasta dorar por ambos lados.",
+      "imagen": "panqueques.jpg",
+      "categoria": "Desayunos"
+    },
+    {
+      "id": 12,
+      "titulo": "Empanadas de Carne",
+      "comensales": 4,
+      "ingredientes": [
+        "Masa de empanada",
+        "Carne molida",
+        "Cebolla",
+        "Huevo duro",
+        "Aceitunas"
+      ],
+      "procedimiento": "Rellena las masas con carne cocida y los demás ingredientes. Cierra las empanadas y hornea a 180°C durante 20 minutos.",
+      "imagen": "empanadas_carne.jpg",
+      "categoria": "Entradas"
+    },
+    {
+      "id": 13,
+      "titulo": "Gazpacho Andaluz",
+      "comensales": 4,
+      "ingredientes": [
+        "Tomates",
+        "Pepino",
+        "Pimiento",
+        "Ajo",
+        "Aceite de oliva",
+        "Vinagre"
+      ],
+      "procedimiento": "Licúa todos los ingredientes hasta obtener una sopa fría. Sirve con trozos de pan.",
+      "imagen": "gazpacho.jpg",
+      "categoria": "Sopas"
+    },
+    {
+      "id": 14,
+      "titulo": "Tacos de Pollo",
+      "comensales": 3,
+      "ingredientes": [
+        "Tortillas",
+        "Pechuga de pollo",
+        "Aguacate",
+        "Cebolla",
+        "Salsa picante"
+      ],
+      "procedimiento": "Cocina el pollo, desmenúzalo y colócalo en las tortillas. Añade aguacate, cebolla y salsa al gusto.",
+      "imagen": "tacos_pollo.jpg",
+      "categoria": "Platos Principales"
+    },
+    {
+      "id": 15,
+      "titulo": "Helado de Vainilla",
+      "comensales": 4,
+      "ingredientes": [
+        "Leche",
+        "Azúcar",
+        "Vainilla",
+        "Yemas de huevo",
+        "Crema"
+      ],
+      "procedimiento": "Mezcla todos los ingredientes y cocina a fuego lento hasta espesar. Refrigera y luego bate la mezcla antes de congelarla.",
+      "imagen": "helado_vainilla.jpg",
+      "categoria": "Postres"
+    }
+  ]
+}

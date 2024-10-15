@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina de recetas</title>
+    <link rel="stylesheet" href="./estilos.css">
+</head>
+<body>
+  <h2 id="nombreUsuario"></h2>
+    <div id="central">
+      <div id="buscador">
+        <input type="text" id="txtBuscar" placeholder="Busque su receta...">
+        <input type="button" id="btnBuscar" value="buscar">
+        <label for="slcCategoria">Filtro por categorias</label>
+        <select id="slcCategoria">
+          <option value="">Todas</option>
+        </select>
+      </div>      
+      <div id="recetas"></div>
+    </div>
+      <script src="./codigo/app.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>
